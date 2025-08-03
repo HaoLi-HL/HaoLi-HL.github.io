@@ -9,8 +9,8 @@ layout: default
 I am Hao Li, a Research Assistant Professor at the Department of Applied Mathematics, The Hong Kong Polytechnic University.
 
 ## Background
-- Ph.D. in Applied Mathematics, Purdue University (2016-2021), Advisor: Prof. Xiangxiong Zhang
-- B.S. in Mathematics, University of Science and Technology of China (2012-2016), Graduated with Honors
+- Ph.D. in Applied Mathematics, Purdue University (2016-2021), Advisor: Prof. Xiangxiong Zhang.
+- B.S. in Mathematics, University of Science and Technology of China (2012-2016).
 
 ## Research Interests
 - Machine learning, numerical analysis and scientific computing
